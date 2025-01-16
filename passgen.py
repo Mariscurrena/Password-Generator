@@ -1,5 +1,5 @@
 ## Password generator
-## Author: ANgel Mariscurrena
+## Author: Angel Mariscurrena
 ## Inspo: W J Pearce
 
 import random
